@@ -19,13 +19,13 @@ Problem 1
 Description: The UC Irvine Machine Learning Repository contains a data set related to glass identification. THe data consist of 214 glass samples labeled as one of sevenclass categories. There are nine predictors, including the refractive index and percentages of eight elements: Na, Mg, Al, Si, K, Ca, Ba, and Fe.
 
 The data can be accessed via:
-`library(mlbench)`
-`data(Glass)`
-`str(Glass)`
+- `library(mlbench)`
+- `data(Glass)`
+- `str(Glass)`
 
-A. Using visualizations, explore the predictor variables to understand their distributions as well as the relationships between predictors.
-B. Do there appear to be any outliers in the data? Are any predictors skewed?
-C. Are there any relevant transformations of one or more predictors that might improve the classification model?
+- A. Using visualizations, explore the predictor variables to understand their distributions as well as the relationships -between predictors.
+- B. Do there appear to be any outliers in the data? Are any predictors skewed?
+- C. Are there any relevant transformations of one or more predictors that might improve the classification model?
 
 
 Problem 2
@@ -33,8 +33,8 @@ Problem 2
 Description: The soybean data can also be found at the UC Irvine Machine Learning Repository. Data were collected to predict disease in 683 soybeans. The 35 predictors are mostely categorical and include information on the environmental conditions (e.g., temperature, precipitation) and plant conditions (e.g., left spots, mold growth). The outcome labels consist of 19 distinct classes.
 
 The data can be loaded via:
-`library(mlbench)`
-`data(Soybean)`
+- `library(mlbench)`
+- `data(Soybean)`
 
-A. Investigate the frequency distributions for the categorical predictors. Are any of the distributions degerate in the ways discussed earlier in this chapter?
-B. Roughly 18% of the data are missing. Are there particular predictors that are more likely to be missing? Is the pattern of missing data related to the classes?
+- A. Investigate the frequency distributions for the categorical predictors. Are any of the distributions degerate in the ways discussed earlier in this chapter?
+- B. Roughly 18% of the data are missing. Are there particular predictors that are more likely to be missing? Is the pattern of missing data related to the classes?
