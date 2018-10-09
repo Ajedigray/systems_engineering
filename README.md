@@ -1,10 +1,10 @@
 # Systems_engineering
-### This repository contains academic projects completed in systems engineering masters courses
+### This repository contains academic projects completed in systems engineering masters courses at George Mason University
 
 ### Requirements for projects
 1. 64 bit Mac, Windows, or Linux operating system
 2. RStudio
-3. Applied Predictive Modeling (ISBN: 
+3. Applied Predictive Modeling (ISBN: 978-1-4614-6848-6, Author: Max Kuhn)
 
 ## Projects
 
