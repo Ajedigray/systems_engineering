@@ -23,9 +23,10 @@ The data can be accessed via:
 - `data(Glass)`
 - `str(Glass)`
 
-1a. Using visualizations, explore the predictor variables to understand their distributions as well as the relationships -between predictors.
-1b. Do there appear to be any outliers in the data? Are any predictors skewed?
-1c. Are there any relevant transformations of one or more predictors that might improve the classification model?
+1
+  - a. Using visualizations, explore the predictor variables to understand their distributions as well as the relationships -between predictors.
+  - b. Do there appear to be any outliers in the data? Are any predictors skewed?
+  - c. Are there any relevant transformations of one or more predictors that might improve the classification model?
 
 
 Problem 2
@@ -36,5 +37,6 @@ The data can be loaded via:
 - `library(mlbench)`
 - `data(Soybean)`
 
-2a. Investigate the frequency distributions for the categorical predictors. Are any of the distributions degerate in the ways discussed earlier in this chapter?
-2b. Roughly 18% of the data are missing. Are there particular predictors that are more likely to be missing? Is the pattern of missing data related to the classes?
+2
+  - a. Investigate the frequency distributions for the categorical predictors. Are any of the distributions degerate in the ways discussed earlier in this chapter?
+  - b. Roughly 18% of the data are missing. Are there particular predictors that are more likely to be missing? Is the pattern of missing data related to the classes?
