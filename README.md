@@ -11,7 +11,9 @@
 ### Data_preprocessing
 
 #### Project Description
-This project uses R and RStudio to answer data preprocessing exercise problems presented in chapter 3 of Applied Predictive Modeling. In problem 1, the `Glass` dataset from the `mlbench` package is used to explore the behavior and characteristics of the predictor variables. In problem 2, the `Soybean` dataset from the `mlbench` package is used to analyze frequency distributions of the categorical variables and to uncover potential patterns and of missing data amongst the categorical variables.
+This project uses R and RStudio to answer data preprocessing exercise problems presented in chapter 3 of Applied Predictive Modeling. In problem 1, the `Glass` dataset from the `mlbench` package is used to explore the behavior and characteristics of the predictor variables. In problem 2, the `Soybean` dataset from the `mlbench` package is used to analyze frequency distributions of the categorical variables and to uncover potential patterns and of missing data amongst the categorical variables. 
+
+- The solutions to the following problems are contained in `solutions.pdf`
 
 #### Problems
 Problem 1
